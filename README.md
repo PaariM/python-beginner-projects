@@ -17,9 +17,6 @@ python 2_expense_tracker.py
 python 3_text_analyzer.py
 ```
 
-For project 3, put your own text in a file named `sample.txt` next to the script,
-or type the text when asked.
-
 ## Author
 
 Paari M - Python Developer
